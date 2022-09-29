@@ -10,3 +10,4 @@ done
 for myfile in `ls *.txt`; do
 	cat $myfile
 done
+#comment
